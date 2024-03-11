@@ -138,6 +138,13 @@ WORKS_ON(SSN, PNo, Hours)
 
 **5.** For each department that has more than five employees, retrieve the department number and the number of its employees who are making more than Rs. 6,00,000.
 
+****************************************************************************************************************************************************************
+## Author
+
+- Name: Deekshitha.C
+- USN: 4MH21CS017
+- Faculty Name: Prof. Victor Ikechukwu Agughasi
+
 
  ## Contributer
   [victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu )
