@@ -137,3 +137,11 @@ WORKS_ON(SSN, PNo, Hours)
 **4.** Retrieve the name of each employee who works on all the projects controlled by department number 5  (use NOT EXISTS operator).
 
 **5.** For each department that has more than five employees, retrieve the department number and the number of its employees who are making more than Rs. 6,00,000.
+
+
+ ## Contributer
+  [victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu )
+  
+  [Deekshitha C](https://github.com/deekshithagowda07)
+  
+
