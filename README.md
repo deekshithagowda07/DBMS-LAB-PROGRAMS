@@ -139,6 +139,24 @@ WORKS_ON(SSN, PNo, Hours)
 **5.** For each department that has more than five employees, retrieve the department number and the number of its employees who are making more than Rs. 6,00,000.
 
 ****************************************************************************************************************************************************************
+
+
+**MINI PROJECT**
+
+TITLE:  **ZOO MANAGEMENT SYSTEM**
+
+Our Mini Project Goal is
+
+**MISSION**
+
+"To connect visitors and animals through exemplary animal welfare and care, best educational and inspirational experiences, fostering public appreciation and support for wild animals and conservation”
+
+
+**AIM**
+
+"Highlight is maintenance of greenery throughout the year with development of garden, continuous planting of saplings, ensuring cleanliness, avoiding littering of plastic materials such as plastic covers/handbags, educating visitors about plastic free zone, sustainable management practices such as rain water harvesting, solid waste management and establishment of live feed units."
+
+***********************************************************************************************************************************************
 ## Author
 
 - Name: Deekshitha.C
